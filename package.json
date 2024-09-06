@@ -1,6 +1,6 @@
 {
-  "name": "one-time-password-generator",
-  "version": "1.0.0",
+  "name": "one-time-password-generato",
+  "version": "1.0.1",
   "description": "generates random otp for the given length",
   "main": "index.js",
   "scripts": {
